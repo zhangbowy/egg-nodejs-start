@@ -27,8 +27,6 @@ module.exports = appInfo => {
     hosts: '127.0.0.1:27017',
     db: 'test',
     query: '',
-
-    
     // defalut: {
     //     username: '',
     //     password: '',
