@@ -41,8 +41,6 @@ module.exports = appInfo => {
     //     db: 'test',
     //     query: ''
     // }
-
-    
   };
 
 
